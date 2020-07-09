@@ -2,9 +2,9 @@
 
 My name is Sushant Hande, I am a Software Engineer at Xento Systems, currently working on Android Application which is being built using Kotlin.
 
-Let's connect at 
-Medium: https://medium.com/@sushanthande1
-LinkedIn: https://www.linkedin.com/in/sushanthande/
+Let's connect at <br>
+Medium: https://medium.com/@sushanthande1 <br>
+LinkedIn: https://www.linkedin.com/in/sushanthande/ <br>
 Twitter: https://twitter.com/SushantHande1
 
 <!--
