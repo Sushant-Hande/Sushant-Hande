@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sushant Hande, I am a Software Engineer at Xento Systems, currently working on Android Application which is being built using Kotlin.
+My name is Sushant Hande, I am a Software Engineer at Finserv Markets, currently working on Android Application which is being built using Kotlin.
 
 Let's connect at <br>
 LinkedIn: https://www.linkedin.com/in/sushanthande/
