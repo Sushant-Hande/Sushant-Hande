@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sushant Hande, I am a Software Engineer at [Bajaj Markets](https://www.bajajfinservmarkets.in/), currently working on Android Application which is being built using Kotlin.
+My name is Sushant Hande, I am a Software Engineer at [HSBC](https://www.hsbc.com), currently exploring Kotlin Multiplatform development.
 
 Let's connect at <br>
 LinkedIn: https://www.linkedin.com/in/sushanthande/
