@@ -3,8 +3,9 @@
 My name is Sushant Hande, I am a Software Engineer at [HSBC](https://www.hsbc.com), currently exploring Kotlin Multiplatform development.
 
 Let's connect at <br>
-LinkedIn: https://www.linkedin.com/in/sushanthande/
-Twitter: https://twitter.com/SushantHande1
+1. [Linkedin](https://www.linkedin.com/in/sushanthande/) <br>
+3. [Medium](https://medium.com/@sushanthande1)
+2. [Twitter](https://twitter.com/SushantHande1)
 
 <!--
 **Sushant-Hande/Sushant-Hande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### GitHub Stats
 
-[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Hande)](https://github.com/anuraghazra/github-readme-stats)
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=Sushant-Hande&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Hande&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Hande&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
