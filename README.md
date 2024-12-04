@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, My name is Sushant Hande
 
-My name is Sushant Hande, I am a Software Engineer at [HSBC](https://www.hsbc.com), currently exploring Kotlin Multiplatform development.
+I am a Software Engineer at [HSBC](https://www.hsbc.com), currently exploring Kotlin Multiplatform development.
 
-### Let's connect at <br>
+## Let's connect at <br>
 
 [<img alt="Linkedin" width="40px" src="images/linkedin.png" />](https://www.linkedin.com/in/sushanthande/) &nbsp;
 [<img alt="Medium" width="40px" src="images/medium.png" />](https://medium.com/@sushanthande1) &nbsp;
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Stats
+## GitHub Stats
 
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=Sushant-Hande&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Hande&theme=vue-dark&hide_border=true' />
