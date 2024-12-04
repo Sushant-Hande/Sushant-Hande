@@ -2,10 +2,11 @@
 
 My name is Sushant Hande, I am a Software Engineer at [HSBC](https://www.hsbc.com), currently exploring Kotlin Multiplatform development.
 
-Let's connect at <br>
-1. [Linkedin](https://www.linkedin.com/in/sushanthande/) <br>
-3. [Medium](https://medium.com/@sushanthande1)
-2. [Twitter](https://twitter.com/SushantHande1)
+### Let's connect at <br>
+
+[<img alt="Linkedin" width="40px" src="images/linkedin.png" />](https://www.linkedin.com/in/sushanthande/) &nbsp;
+[<img alt="Medium" width="40px" src="images/medium.png" />](https://medium.com/@sushanthande1) &nbsp;
+[<img alt="Twitter" width="40px" src="images/twitter.png" />](https://twitter.com/SushantHande1)
 
 <!--
 **Sushant-Hande/Sushant-Hande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
