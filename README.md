@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sushant Hande
 
-I am a Software Engineer at [HSBC](https://www.hsbc.com), currently exploring Kotlin Multiplatform development.
+A seasoned Kotlin Multiplatform Developer with 7 years of experience, specializing in crafting robust and performant applications. My journey includes in-depth expertise in native Android development using Kotlin and Core Java. I'm a strong advocate for leveraging AI tools to enhance productivity and innovation. Beyond coding, I'm an avid open-source contributor, an enthusiastic reader, and a keen sports enthusiast, particularly cricket. I'm a true believer in Karma.
 
 ## Let's connect at <br>
 
