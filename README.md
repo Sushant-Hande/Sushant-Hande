@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Sushant Hande
+## Hi there 👋, My name is Sushant Hande
 
 A seasoned Kotlin Multiplatform Developer with 7 years of experience, specializing in crafting robust and performant applications. My journey includes in-depth expertise in native Android development using Kotlin and Core Java. I'm a strong advocate for leveraging AI tools to enhance productivity and innovation. Beyond coding, I'm an avid open-source contributor, an enthusiastic reader, and a keen sports enthusiast, particularly cricket. I'm a true believer in Karma.
 
@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=Sushant-Hande&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Hande&theme=vue-dark&hide_border=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Hande&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
+## GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Sushant-Hande&theme=onedark&rank=-?&margin-w=15&margin-h=15">
